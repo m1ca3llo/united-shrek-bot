@@ -120,7 +120,7 @@ module.exports = {
           }help [Command] | Have a nice day!`
         ).setDescription(`${Commands.join("\n")}
   
-  Discord Music Bot Version: v${require("../package.json").version}
+  United Shrek Bot: v${require("../package.json").version}
   [✨ Support Server](${
     client.botconfig.SupportServer
   }) | [GitHub](https://github.com/m1ca3llo/united-shrek-bot) | [Dashboard](${client.botconfig.Website}) | By [m1ca3llo](https://github.com/m1ca3llo)`);
